@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringDataJpaCourseApplication {
 	public static void main(String[] args) {git
-		System.out.println("Hello Saii");
+		System.out.println("Hello Naveen");
 
 		SpringApplication.run(SpringDataJpaCourseApplication.class, args);
 	}
